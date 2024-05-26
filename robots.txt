@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /person/
+
+Sitemap: https://moviex4u.com/sitemap.xml
